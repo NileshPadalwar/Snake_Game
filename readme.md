@@ -4,7 +4,7 @@ A simple and responsive **Snake Game Web Application** built using **HTML, CSS, 
 
 ## 🚀 Live Demo
 
-🔗 **[Snake Game](#)**
+🔗 **[Snake Game](https://snakegame-phi-tawny.vercel.app/)**
 
 ---
 
