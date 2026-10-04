@@ -6,8 +6,6 @@ A simple and responsive **Snake Game Web Application** built using **HTML, CSS, 
 
 🔗 **[Snake Game](#)**
 
-> Replace `#` with your live deployment URL.
-
 ---
 
 ## 📌 Project Overview
@@ -98,11 +96,6 @@ The score starts from `0` and increases whenever the snake eats food.
 ### High Score
 
 The highest score is stored in the browser using `localStorage`.
-
-```javascript
-localStorage.setItem("high-score", highScore);
-```
-
 This allows the high score to remain available even after refreshing the page.
 
 ---
@@ -131,7 +124,7 @@ Use the directional buttons displayed below the game board.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NileshPadalwar/Snake-Game.git
+git clone https://github.com/NileshPadalwar/Snake_Game.git
 ```
 
 2. Navigate to the project folder:
@@ -150,7 +143,6 @@ Or, if you are using **VS Code**, open the project and run it using **Live Serve
 
 ![Snake Game Preview](images/preview.png)
 
-> Add your game screenshot inside the `images` folder with the name `preview.png`.
 
 ---
 
